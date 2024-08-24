@@ -2,9 +2,10 @@
 
 - 🔭 I’m currently working with Apache Kafka · Docker · ReactJS · Spring Framework · Java
 - 🌱 I’m currently learning about Microservices and Microfrontends
-- 💻Software Developer at @radarsaude
+- 💻 Software Developer at @radarsaude
 
-My Skills:
+## My Skills:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Breno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Breno-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -17,7 +18,7 @@ My Skills:
 </div>
 <br />
 
-##
+## Social Midias
 
 <div>
   <a href="https://www.instagram.com/felipsbreno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
