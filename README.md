@@ -1,8 +1,10 @@
 ## Hi everyone I'm Breno Felipe 👋 
 
-- 🔭 I’m currently working with Apache Kafka · Docker · ReactJS · Spring Framework · Java
-- 🌱 I’m currently learning about Microservices and Microfrontends
-- 💻 Software Developer at @radarsaude
+Hello! I am passionate about technology and always interested in learning something new.
+
+I am a developer with over 3 years of experience working in software development using Java with Spring on the backend and ReactJS on the frontend. I have a degree in Systems Analysis and Development, and my goal is to specialize in backend development, applying clean architecture and domain-driven development (DDD) principles to deliver high-quality code, focusing on developing scalable and efficient solutions.
+
+💻 Software Developer at @radarsaude
 
 ## My Skills:
 
