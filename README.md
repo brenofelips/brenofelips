@@ -6,6 +6,8 @@ I am a developer with over 3 years of experience working in software development
 
 💻 Software Developer at @radarsaude
 
+![Pokémon GitHub Stats](https://pokemon-status.vercel.app/?user=brenofelips&pokemon=bulbasaur&theme=bulbasaur)
+
 ## My Skills:
 
 <div style="display: inline_block"><br>
