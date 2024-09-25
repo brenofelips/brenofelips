@@ -4,7 +4,7 @@ I am passionate about technology and always interested in learning something new
 
 I am a developer with over 3 years of experience working in software development using Java with Spring on the backend and ReactJS on the frontend. I have a degree in Systems Analysis and Development, and my goal is to specialize in backend development, applying clean architecture and domain-driven development (DDD) principles to deliver high-quality code, focusing on developing scalable and efficient solutions.
 
-💻 Software Developer at @radarsaude
+💻 Software Engineer at @radarsaude
 
 ![Pokémon GitHub Stats](https://pokemon-status.vercel.app/?user=brenofelips&pokemon=bulbasaur&theme=bulbasaur)
 
