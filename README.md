@@ -23,7 +23,7 @@ I am a developer with over 3 years of experience working in software development
 </div>
 <br />
 
-## Social Midias
+## Social Midias:
 
 <div>
   <a href="https://www.instagram.com/felipsbreno" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
