@@ -13,7 +13,7 @@
 ## My Skills:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=docker,java,postgres,nodejs,go,ts,react">
+  <img src="https://skillicons.dev/icons?i=nodejs,go,ts,react,js,spring,java,docker,postgres">
 </div>
 
 <br />
