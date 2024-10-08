@@ -1,4 +1,4 @@
-## Hi everyone I'm Breno Felipe 👋 
+## Welcome 👋 My name is Breno Felipe
 
   I am passionate about technology and always interested in learning something new.
 
