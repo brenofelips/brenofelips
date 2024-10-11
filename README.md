@@ -7,7 +7,7 @@
   💻 Software Engineer at @radarsaude
 
 <div align="center">
-  <img src="https://pokemon-status.vercel.app/?pokemon=charmander&user=brenofelips&theme=charmander">
+  <img src="https://pokemon-status.vercel.app/?pokemon=pikachu&user=brenofelips&theme=pikachu">
 </div>
 
 ## My Skills:
