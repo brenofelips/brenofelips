@@ -1,8 +1,4 @@
-## Welcome 👋 My name is Breno Felipe
-
-  I am passionate about technology and always interested in learning something new.
-
-  I am a developer with over 3 years of experience and my goal is to specialize in backend development, focusing on developing scalable and efficient solutions.
+## Welcome 👋
   
 <div align="center">
   <img src="https://pokemon-status.vercel.app/?pokemon=pikachu&user=brenofelips&theme=pikachu">
