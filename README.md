@@ -1,7 +1,7 @@
 ## Welcome 👋
   
 <div align="center">
-  <img src="https://pokemon-status.vercel.app/?pokemon=pikachu&user=brenofelips&theme=pikachu">
+  <img src="https://pokemon-status.vercel.app/?pokemon=charmander&user=brenofelips&theme=charmander">
 </div>
 
 ## My Skills:
