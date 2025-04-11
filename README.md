@@ -6,7 +6,7 @@
   
 🔍 ADS — Engenharia de Software
 
-💻 Linguagens de programação de sistemas — Node.js • Go • TypeScript • Java 
+💻 Linguagens de programação de sistemas — JavaScript • Python • TypeScript • Java 
 
 🍕 Comidas — Qualquer comida! 😋
 
