@@ -4,7 +4,7 @@
 <pre>
 <h3 align=center> Algumas informações sobre mim </h3>
   
-🔍 ADS — Engenharia de Software
+🔍 Software Developer - ADS
 
 💻 Linguagens de programação de sistemas — JavaScript • Python • TypeScript • Java 
 
