@@ -1,4 +1,4 @@
-<h1 align=center>Olá, meu nome é Breno Felipe</h1>
+<h1 align=center>Olá, meu nome é Breno Felipe <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjd4bHcyczRmNWhmeTN5ODBhOXN2OGw2ZWgyYzh5dWEyamExYmR5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rizlFUsPxF0wVKeL1h/giphy.gif" width="70px" height="55px"></h1>
 <h3 align=center>Sou um Software Developer apaixonado por tecnologia.</h3>
 
 <pre>
