@@ -1,4 +1,4 @@
-<h1 align=center>Olá, meu nome é Breno Felipe <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam43NXdlNnlna2FocTAwdG02bHQ4bmF1b3IxZGd1a3pqb2ZsdTlnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif" width="70px" height="55px"> </h1>
+<h1 align=center>Olá, meu nome é Breno Felipe</h1>
 <h3 align=center>Sou um Software Developer apaixonado por tecnologia.</h3>
 
 <pre>
@@ -6,7 +6,7 @@
   
 🔍 Software Developer - ADS
 
-💻 Linguagens de programação de sistemas — JavaScript • Python • TypeScript • Java 
+💻 Linguagens que eu programo/Já sei fazer um print("Hello World") — JavaScript • Python • TypeScript • Java • Go
 
 🍕 Comidas — Qualquer comida! 😋
 
@@ -21,7 +21,8 @@ Meu objetivo e me especializar no desenvolvimento backend com Java e Spring Boot
   
 Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meu conhecimento.
 
-</p> <img alt="minha foto de perfil" align="center" src="https://avatars.githubusercontent.com/u/166960441?v=4"  width="150px"/>
+</p><img
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam43NXdlNnlna2FocTAwdG02bHQ4bmF1b3IxZGd1a3pqb2ZsdTlnbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UDclWKlmfmq7twI3iJ/giphy.gif" width="280px" height="200px">
 </pre>
 
 ## 🚀 Minhas Skills
@@ -31,6 +32,7 @@ Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir 
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Mockito-2A2A2A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
