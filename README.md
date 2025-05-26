@@ -34,19 +34,12 @@ src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExam43NXdlNnlna2FocTAwdG02b
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Mockito-2A2A2A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JPA-007396?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PL/SQL-F7DF1E?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsserviços-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
