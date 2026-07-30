@@ -73,7 +73,7 @@ I am always looking to grow technically, explore new technologies, and build rob
     <img
       alt="brenofelips pokemon pet"
       title="Click to visit my GitHub"
-      src="https://pokemon-status.vercel.app/?pokemon=charmander&user=brenofelips&theme=charmander"
+      src="https://pokemon-status.vercel.app/?pokemon=pikachu&user=brenofelips&theme=pikachu"
       height="300px"
     >
   </a>
@@ -83,18 +83,22 @@ I am always looking to grow technically, explore new technologies, and build rob
 
 ## 📊 GitHub
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/brenofelips">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brenofelips&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true"/>
   </a>
 
   <a href="https://github.com/brenofelips">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenofelips&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/username=brenofelips&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
   </a>
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=brenofelips&custom_title=GitHub%20Activity&theme=radical&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=brenofelips&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
