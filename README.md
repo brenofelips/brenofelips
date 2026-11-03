@@ -6,7 +6,7 @@
 
 <a href="https://github.com/brenofelips"><img src="https://komarev.com/ghpvc/?username=brenofelips&style=for-the-badge&color=6d28d9&label=VISITS" alt="visits"/></a>
 <a href="https://github.com/brenofelips?tab=followers"><img src="https://img.shields.io/github/followers/brenofelips?style=for-the-badge&color=6d28d9&labelColor=0d1117&logo=github" alt="followers"/></a>
-<a href="https://github.com/brenofelips?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=6d28d9&labelColor=0d1117&logo=github&label=REPOS&query=public_repos&url=https://api.github.com/users/brenofelips" alt="repos"/></a>
+<a href="https://github.com/brenofelips?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-explore-6d28d9?style=for-the-badge&labelColor=0d1117&logo=github" alt="repositories"/></a>
 
 </div>
 
@@ -14,24 +14,24 @@
 
 ## 👋 About Me
 
-```java
-record Engineer(
-    String company,
-    String role,
-    String location,
-    List<String> backend,
-    List<String> alsoWorkWith,
-    List<String> interests
-) {}
+```rust
+struct Engineer {
+    company: &'static str,
+    role: &'static str,
+    location: &'static str,
+    backend: &'static [&'static str],
+    also_work_with: &'static [&'static str],
+    interests: &'static [&'static str],
+}
 
-var breno = new Engineer(
-    "Radar Saúde",
-    "Software Engineer",
-    "Florianópolis, SC, Brazil",
-    List.of("Java", "Spring Boot", "Rust", "PostgreSQL"),
-    List.of("TypeScript", "Next.js", "Go", "Python"),
-    List.of("Software Architecture", "Distributed Systems", "DDD", "Observability", "Cloud Native")
-);
+const BRENO: Engineer = Engineer {
+    company: "Radar Saúde",
+    role: "Software Engineer",
+    location: "Florianópolis, SC, Brazil",
+    backend: &["Java", "Spring Boot", "Rust", "PostgreSQL"],
+    also_work_with: &["TypeScript", "Next.js", "Go", "Python"],
+    interests: &["Software Architecture", "Distributed Systems", "DDD", "Observability", "Cloud Native"],
+};
 ```
 
 - 🏥 Software Engineer at **Radar Saúde**, building backend services for health management
