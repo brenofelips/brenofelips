@@ -111,16 +111,6 @@ var breno = new Engineer(
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brenofelips&theme=tokyonight&utcOffset=-3" alt="Productive time"/>
 </a>
 
-<br/><br/>
-
-### 🟩 Contributions in the last year
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/brenofelips/brenofelips/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/brenofelips/brenofelips/output/github-snake.svg"/>
-  <img src="https://raw.githubusercontent.com/brenofelips/brenofelips/output/github-snake.svg" width="100%" alt="Snake eating contributions"/>
-</picture>
-
 </div>
 
 ---
