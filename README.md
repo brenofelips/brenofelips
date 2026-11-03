@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a48,100:6d28d9&height=200&section=header&text=Breno%20Felipe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Software%20Architecture&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f2a48,100:6d28d9&height=200&section=header&text=Breno%20Felipe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%7C%20Software%20Architecture&descAlignY=58&descSize=18" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=640&lines=Software+Engineer+at+Radar+Sa%C3%BAde;Backend+%E2%80%A2+Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Rust;DDD+%E2%80%A2+Clean+Architecture+%E2%80%A2+Distributed+Systems;Building+scalable+and+sustainable+systems)](https://git.io/typing-svg)
 
